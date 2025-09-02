@@ -1,9 +1,15 @@
 👋 Hey, I’m Bhaskar
+
 👀 Into coding, trading, and occasionally rage-quitting games
-🌱 Currently leveling up in Python & Rust (a.k.a. my side quests)
+
+🌱 Builder of GenAI & Agentic AI… aka future overlords in training
+
 💞️ Open to collaborating on AI, trading algos, or anything that breaks elegantly
-📫 Reach me via [insert email/LinkedIn/GitHub Discussions] (carrier pigeons also work)
+
+📫 Reach me via bhaskarjyotiy20@gmail.com (carrier pigeons also work)
+
 😄 Pronouns: function() / return();
+
 ⚡ Fun fact: My code has a 99% uptime… on my machine
 
 <!---
